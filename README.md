@@ -5,8 +5,8 @@ Challenge from Kaggle: The study of negative online behaviors.
 ```
 
 ```
-Solution: Build a multi-headed model that’s capable of detecting 6 types of toxicity: 
-toxic, severe toxic, obscene, threat, insult, identity hate. 
+Solution: Build a multi-headed model detecting 6 types of toxicity: toxic, severe toxic, obscene, 
+threat, insult, identity hate. 
 ```
 This script runs using Python 3. 
 
