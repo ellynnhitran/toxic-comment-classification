@@ -25,6 +25,7 @@ Pre-trained GloVe vectors (Global Vectors for Word Representation) from Stanford
 
 ## Build model
 - Word Embedding.
+- RNN.
 - 3-D Tensor into LSTM layer.
 
 ## Training
