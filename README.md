@@ -1,12 +1,14 @@
 # Toxic Comment Classification
+This script runs using Python 3. 
+
 ```
 Challenge from Kaggle: The study of negative online behaviors
 ```
 
 ```
-Solution: Build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate
+Solution: Build a multi-headed model that’s capable of detecting different types of toxicity: 
+toxic, severe toxic, obscene, threat, insult, identity hate. 
 ```
-This script runs using Python 3. 
 #Deep learning, NLP, text classification.
 
 
