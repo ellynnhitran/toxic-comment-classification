@@ -1,11 +1,11 @@
 # Toxic Comment Classification
 
 ```
-Challenge from Kaggle: The study of negative online behaviors
+Challenge from Kaggle: The study of negative online behaviors.
 ```
 
 ```
-Solution: Build a multi-headed model that’s capable of detecting different types of toxicity: 
+Solution: Build a multi-headed model that’s capable of detecting 6 types of toxicity: 
 toxic, severe toxic, obscene, threat, insult, identity hate. 
 ```
 This script runs using Python 3. 
