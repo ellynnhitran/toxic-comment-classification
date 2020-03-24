@@ -9,4 +9,7 @@ Challenge from Kaggle
 GloVe: Global Vectors for Word Representation
 ''
 
-## Prepare the data
+
+
+
+#Reference: https://towardsdatascience.com/classify-toxic-online-comments-with-lstm-and-glove-e455a58da9c7
