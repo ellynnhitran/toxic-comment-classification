@@ -2,12 +2,13 @@
 ```
 Challenge from Kaggle: The study of negative online behaviors
 ```
-#Deep learning, NLP, text classification.
 
 ```
 Solution: Build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate
 ```
 This script runs using Python 3. 
+#Deep learning, NLP, text classification.
+
 
 ## Dataset
 Pre-trained word vectors: 840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB.
