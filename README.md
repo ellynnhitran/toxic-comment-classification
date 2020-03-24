@@ -9,7 +9,6 @@ Challenge from Kaggle: The study of negative online behaviors
 Solution: Build a multi-headed model that’s capable of detecting different types of toxicity: 
 toxic, severe toxic, obscene, threat, insult, identity hate. 
 ```
-#Deep learning, NLP, text classification.
 
 
 ## Dataset
