@@ -12,7 +12,7 @@ toxic, severe toxic, obscene, threat, insult, identity hate.
 
 
 ## Dataset
-Pre-trained word vectors: 840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB.
+Pre-trained word vectors from Common Crawl: 840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB.
 
 ```
 Pre-trained GloVe vectors (Global Vectors for Word Representation) from Stanford. 
