@@ -34,9 +34,12 @@ Pre-trained GloVe vectors (Global Vectors for Word Representation) from Stanford
 
 ## Evaluate model
 - Calculate training and validation loss.
-(image)
+
+![Loss](https://github.com/ellynnhitran/toxic-comment-classification/blob/master/loss.png)
+
 - Calculate training and validation accuracy.
-(image)
+
+![Accuracy](https://github.com/ellynnhitran/toxic-comment-classification/blob/master/accuracy.png)
 
 ### Final Result: 97.79% (Leaderboard: 98.85%)
 
